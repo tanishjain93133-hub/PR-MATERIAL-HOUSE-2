@@ -1,0 +1,868 @@
+{
+  "products": [
+    {
+      "_id": "6a657640e14975bd6b55abf3",
+      "name": "Ambuja Kawach Premium Cement",
+      "brand": "6a657640e14975bd6b55abc7",
+      "category": "6a657640e14975bd6b55abac",
+      "description": "Premium pozzolana composite water repellent cement featuring active micro-admixtures that guard concrete structures against moisture ingress and efflorescence.",
+      "features": [
+        "Special active water repellent formulation prevents dampness",
+        "Higher dense concrete mix prevents chemical leakages",
+        "Durable finish withstands high thermal expansions"
+      ],
+      "specifications": [
+        {
+          "name": "Grade",
+          "value": "PPC Composite",
+          "_id": "6a657640e14975bd6b55abf4"
+        },
+        {
+          "name": "Waterproof Ratio",
+          "value": "99% water barrier efficacy",
+          "_id": "6a657640e14975bd6b55abf5"
+        },
+        {
+          "name": "Standards Met",
+          "value": "IS 1489 Part 1",
+          "_id": "6a657640e14975bd6b55abf6"
+        },
+        {
+          "name": "Net Weight",
+          "value": "50 kg",
+          "_id": "6a657640e14975bd6b55abf7"
+        }
+      ],
+      "sizes": [
+        "50kg Bag"
+      ],
+      "price": 445,
+      "stockStatus": "In Stock",
+      "availability": true,
+      "hide": false,
+      "image": "/uploads/imageFiles-1785035095997.png",
+      "images": [
+        "/uploads/imageFiles-1785035095997.png",
+        "/uploads/imageFiles-1785035096050.png",
+        "/uploads/imageFiles-1785035096076.png",
+        "/uploads/imageFiles-1785035096108.png"
+      ],
+      "featured": true,
+      "bestSeller": true,
+      "newArrival": false,
+      "viewCount": 120,
+      "enquiryCount": 8,
+      "isDeleted": false,
+      "deletedAt": null,
+      "deletedBy": null,
+      "versions": [
+        {
+          "name": "Ambuja Kawach Premium Cement",
+          "brand": "6a657640e14975bd6b55abc7",
+          "category": "6a657640e14975bd6b55abac",
+          "description": "Premium pozzolana composite water repellent cement featuring active micro-admixtures that guard concrete structures against moisture ingress and efflorescence.",
+          "features": [
+            "Special active water repellent formulation prevents dampness",
+            "Higher dense concrete mix prevents chemical leakages",
+            "Durable finish withstands high thermal expansions"
+          ],
+          "specifications": [
+            {
+              "name": "Grade",
+              "value": "PPC Composite"
+            },
+            {
+              "name": "Waterproof Ratio",
+              "value": "99% water barrier efficacy"
+            },
+            {
+              "name": "Standards Met",
+              "value": "IS 1489 Part 1"
+            },
+            {
+              "name": "Net Weight",
+              "value": "50 kg"
+            }
+          ],
+          "sizes": [
+            "50kg Bag"
+          ],
+          "price": 445,
+          "stockStatus": "In Stock",
+          "availability": true,
+          "image": "/products/cement/ambuja/front.png",
+          "images": [
+            "/products/cement/ambuja/front.png",
+            "/products/cement/ambuja/back.png",
+            "/products/cement/ambuja/powder.png",
+            "/products/cement/ambuja/site.png",
+            "/products/cement/ambuja/mason.png"
+          ],
+          "updatedAt": "2026-07-26T03:04:56.137Z"
+        }
+      ],
+      "createdAt": "2026-07-26T02:51:44.857Z",
+      "updatedAt": "2026-07-26T03:04:56.171Z",
+      "__v": 1
+    },
+    {
+      "_id": "6a657640e14975bd6b55abfd",
+      "name": "ACC Gold Water Shield Cement",
+      "brand": "6a657640e14975bd6b55abc5",
+      "category": "6a657640e14975bd6b55abac",
+      "description": "Water-repellent Premium Composite Cement containing water-resistant active chemicals which guard concrete structural parts against dampness and atmospheric moisture.",
+      "features": [
+        "Unique water-repellent engineering prevents moisture seepages",
+        "Low heat of hydration limits micro-cracks development",
+        "Eco-friendly blend reduces carbon footprint"
+      ],
+      "specifications": [
+        {
+          "name": "Type",
+          "value": "Water Shield PSC",
+          "_id": "6a657640e14975bd6b55abfe"
+        },
+        {
+          "name": "Water absorption",
+          "value": "Reduced by 50% vs standard OPC",
+          "_id": "6a657640e14975bd6b55abff"
+        },
+        {
+          "name": "Packaging",
+          "value": "Laminated moisture proof bag",
+          "_id": "6a657640e14975bd6b55ac00"
+        },
+        {
+          "name": "Net Weight",
+          "value": "50 kg",
+          "_id": "6a657640e14975bd6b55ac01"
+        }
+      ],
+      "sizes": [
+        "50kg Bag"
+      ],
+      "price": 450,
+      "stockStatus": "In Stock",
+      "availability": true,
+      "hide": false,
+      "image": "/cement.jpg",
+      "images": [
+        "/cement.jpg",
+        "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&w=600&q=80"
+      ],
+      "featured": true,
+      "bestSeller": false,
+      "newArrival": true,
+      "viewCount": 95,
+      "enquiryCount": 4,
+      "isDeleted": true,
+      "deletedAt": "2026-07-26T02:54:24.177Z",
+      "deletedBy": "admin",
+      "versions": [],
+      "createdAt": "2026-07-26T02:51:44.857Z",
+      "updatedAt": "2026-07-26T02:54:24.185Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a657640e14975bd6b55abee",
+      "name": "UltraTech Premium OPC 53 Grade",
+      "brand": "6a657640e14975bd6b55abc3",
+      "category": "6a657640e14975bd6b55abac",
+      "description": "High-strength Ordinary Portland Cement (OPC) specially formulated for structural RCC work in slab castings, columns, and high-rise concrete foundations.",
+      "features": [
+        "Exceptional 28-day compressive strength exceeding 53 MPa",
+        "Optimal setting times for builders and masonry workers",
+        "Superior corrosion resistance for reinforced steel bars"
+      ],
+      "specifications": [
+        {
+          "name": "Grade",
+          "value": "OPC 53",
+          "_id": "6a657640e14975bd6b55abef"
+        },
+        {
+          "name": "Packaging Type",
+          "value": "BOPP Laminated Bags",
+          "_id": "6a657640e14975bd6b55abf0"
+        },
+        {
+          "name": "Standard Compliance",
+          "value": "IS 12269",
+          "_id": "6a657640e14975bd6b55abf1"
+        },
+        {
+          "name": "Net Weight",
+          "value": "50 kg",
+          "_id": "6a657640e14975bd6b55abf2"
+        }
+      ],
+      "sizes": [
+        "50kg Bag",
+        "Bulk Silo Delivery"
+      ],
+      "price": 430,
+      "stockStatus": "In Stock",
+      "availability": true,
+      "hide": false,
+      "image": "/products/cement/ultratech/1.jpg",
+      "images": [
+        "/products/cement/ultratech/1.jpg",
+        "/products/cement/ultratech/2.png",
+        "/products/cement/ultratech/3.jpg",
+        "/products/cement/ultratech/4.jpg"
+      ],
+      "featured": true,
+      "bestSeller": true,
+      "newArrival": false,
+      "viewCount": 150,
+      "enquiryCount": 12,
+      "isDeleted": false,
+      "deletedAt": null,
+      "deletedBy": null,
+      "versions": [],
+      "createdAt": "2026-07-26T02:51:44.857Z",
+      "updatedAt": "2026-07-26T02:51:44.857Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a657640e14975bd6b55abf8",
+      "name": "Hathi Premium PPC Cement",
+      "brand": "6a657640e14975bd6b55abc9",
+      "category": "6a657640e14975bd6b55abac",
+      "description": "High-durability Portland Pozzolana Cement (PPC) engineered with premium pozzolanic materials for high concrete impermeability and superior marine structures construction.",
+      "features": [
+        "Excellent resistance to chemical sulfate and chloride attacks",
+        "High long-term compressive strength development",
+        "Low heat of hydration limits hair-line cracks"
+      ],
+      "specifications": [
+        {
+          "name": "Type",
+          "value": "PPC",
+          "_id": "6a657640e14975bd6b55abf9"
+        },
+        {
+          "name": "Primary Use",
+          "value": "Plastering, masonry, marine RCC foundations",
+          "_id": "6a657640e14975bd6b55abfa"
+        },
+        {
+          "name": "Compliance Standard",
+          "value": "IS 1489",
+          "_id": "6a657640e14975bd6b55abfb"
+        },
+        {
+          "name": "Net Weight",
+          "value": "50 kg",
+          "_id": "6a657640e14975bd6b55abfc"
+        }
+      ],
+      "sizes": [
+        "50kg Bag"
+      ],
+      "price": 410,
+      "stockStatus": "In Stock",
+      "availability": true,
+      "hide": false,
+      "image": "/uploads/imageFiles-1785034500568.png",
+      "images": [
+        "/uploads/imageFiles-1785034500568.png",
+        "/uploads/imageFiles-1785034500597.png",
+        "/uploads/imageFiles-1785034500635.png"
+      ],
+      "featured": true,
+      "bestSeller": false,
+      "newArrival": true,
+      "viewCount": 80,
+      "enquiryCount": 5,
+      "isDeleted": false,
+      "deletedAt": null,
+      "deletedBy": null,
+      "versions": [
+        {
+          "name": "Hathi Premium PPC Cement",
+          "brand": "6a657640e14975bd6b55abc9",
+          "category": "6a657640e14975bd6b55abac",
+          "description": "High-durability Portland Pozzolana Cement (PPC) engineered with premium pozzolanic materials for high concrete impermeability and superior marine structures construction.",
+          "features": [
+            "Excellent resistance to chemical sulfate and chloride attacks",
+            "High long-term compressive strength development",
+            "Low heat of hydration limits hair-line cracks"
+          ],
+          "specifications": [
+            {
+              "name": "Type",
+              "value": "PPC"
+            },
+            {
+              "name": "Primary Use",
+              "value": "Plastering, masonry, marine RCC foundations"
+            },
+            {
+              "name": "Compliance Standard",
+              "value": "IS 1489"
+            },
+            {
+              "name": "Net Weight",
+              "value": "50 kg"
+            }
+          ],
+          "sizes": [
+            "50kg Bag"
+          ],
+          "price": 410,
+          "stockStatus": "In Stock",
+          "availability": true,
+          "image": "/products/cement/hathi/front.png",
+          "images": [
+            "/products/cement/hathi/front.png",
+            "/products/cement/hathi/back.png",
+            "/products/cement/hathi/powder.png",
+            "/products/cement/hathi/site.png",
+            "/products/cement/hathi/mason.png"
+          ],
+          "updatedAt": "2026-07-26T02:55:00.669Z"
+        }
+      ],
+      "createdAt": "2026-07-26T02:51:44.857Z",
+      "updatedAt": "2026-07-26T02:55:00.687Z",
+      "__v": 1
+    },
+    {
+      "_id": "6a657640e14975bd6b55ac02",
+      "name": "Dr. Fixit Super Latex Waterproofing",
+      "brand": "6a657640e14975bd6b55abcf",
+      "category": "6a657640e14975bd6b55abb0",
+      "description": "High-performance SBR latex compound used as a structural bonding agent and waterproof modifier for concrete repairs, spalled slabs, terrace water barrier overlays, and mortar columns reinforcement.",
+      "features": [
+        "Superior bonding strength on steel bars and concrete surfaces",
+        "Excellent water impermeability features for roof repairs",
+        "High elasticity handles structural temperature thermal expansions"
+      ],
+      "specifications": [
+        {
+          "name": "Base Compound",
+          "value": "Styrene Butadiene Rubber (SBR)",
+          "_id": "6a657640e14975bd6b55ac03"
+        },
+        {
+          "name": "Solid Contents (%)",
+          "value": "44%",
+          "_id": "6a657640e14975bd6b55ac04"
+        },
+        {
+          "name": "Coverage Area",
+          "value": "70-80 sq ft per kg at 2 coats",
+          "_id": "6a657640e14975bd6b55ac05"
+        }
+      ],
+      "sizes": [
+        "1 kg Bucket",
+        "5 kg Container",
+        "20 kg Drum"
+      ],
+      "price": 280,
+      "stockStatus": "In Stock",
+      "availability": true,
+      "hide": false,
+      "image": "/chemicals.jpg",
+      "images": [
+        "/chemicals.jpg",
+        "https://images.unsplash.com/photo-1562259949-e8e7689d7828?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1581092921461-eab62e97a780?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=600&q=80"
+      ],
+      "featured": true,
+      "bestSeller": true,
+      "newArrival": false,
+      "viewCount": 220,
+      "enquiryCount": 18,
+      "isDeleted": true,
+      "deletedAt": "2026-07-26T02:54:29.356Z",
+      "deletedBy": "admin",
+      "versions": [],
+      "createdAt": "2026-07-26T02:51:44.857Z",
+      "updatedAt": "2026-07-26T02:54:29.358Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a657640e14975bd6b55ac06",
+      "name": "Jaquar Alive Single Lever Basin Mixer",
+      "brand": "6a657640e14975bd6b55abd7",
+      "category": "6a657640e14975bd6b55abb2",
+      "description": "High-end designer chrome-plated deck-mounted single lever washbasin mixer faucet, designed with clean minimalist contours, featuring smooth hot-cold flow control adjustments.",
+      "features": [
+        "Eco-flow water aerators reduce water wastage up to 40%",
+        "Durable ceramic disk cartridges tested up to 500,000 operations",
+        "Multi-layer chrome plating guarantees mirror-shine durability"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "High-Grade Lead-Free Brass",
+          "_id": "6a657640e14975bd6b55ac07"
+        },
+        {
+          "name": "Finishing Type",
+          "value": "Mirror Polish Chrome",
+          "_id": "6a657640e14975bd6b55ac08"
+        },
+        {
+          "name": "Installation Mode",
+          "value": "Deck Mounted",
+          "_id": "6a657640e14975bd6b55ac09"
+        }
+      ],
+      "sizes": [
+        "Standard Deck Height",
+        "Tall Boy (for counter bowls)"
+      ],
+      "price": 3450,
+      "stockStatus": "In Stock",
+      "availability": true,
+      "hide": false,
+      "image": "/cp_fittings.jpg",
+      "images": [
+        "/cp_fittings.jpg",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=600&q=80"
+      ],
+      "featured": true,
+      "bestSeller": true,
+      "newArrival": true,
+      "viewCount": 110,
+      "enquiryCount": 8,
+      "isDeleted": true,
+      "deletedAt": "2026-07-26T02:54:35.266Z",
+      "deletedBy": "admin",
+      "versions": [],
+      "createdAt": "2026-07-26T02:51:44.857Z",
+      "updatedAt": "2026-07-26T02:54:35.267Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a657640e14975bd6b55ac0a",
+      "name": "Astral CPVC Pro Pipes & Tees",
+      "brand": "6a657640e14975bd6b55abd3",
+      "category": "6a657640e14975bd6b55abb6",
+      "description": "Premium Chlorinated Polyvinyl Chloride (CPVC) plumbing systems built for pressurized hot and cold water supplies in luxury apartments and industrial installations.",
+      "features": [
+        "Handles hot water temperatures up to 93°C safely",
+        "SDR 11 wall thickness handles pressure fluctuations",
+        "Lead-free composition protects drinking water hygiene"
+      ],
+      "specifications": [
+        {
+          "name": "Material Type",
+          "value": "CPVC SDR 11",
+          "_id": "6a657640e14975bd6b55ac0b"
+        },
+        {
+          "name": "Working Pressure",
+          "value": "28.1 kg/cm² at 23°C",
+          "_id": "6a657640e14975bd6b55ac0c"
+        },
+        {
+          "name": "Compliance Standard",
+          "value": "ASTM D2846",
+          "_id": "6a657640e14975bd6b55ac0d"
+        }
+      ],
+      "sizes": [
+        "1/2 inch",
+        "3/4 inch",
+        "1 inch",
+        "1.5 inch"
+      ],
+      "price": 180,
+      "stockStatus": "In Stock",
+      "availability": true,
+      "hide": false,
+      "image": "/cp_fittings.jpg",
+      "images": [
+        "/cp_fittings.jpg",
+        "https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1621905252507-b354bc25edac?auto=format&fit=crop&w=600&q=80"
+      ],
+      "featured": false,
+      "bestSeller": true,
+      "newArrival": false,
+      "viewCount": 80,
+      "enquiryCount": 5,
+      "isDeleted": true,
+      "deletedAt": "2026-07-26T02:54:40.298Z",
+      "deletedBy": "admin",
+      "versions": [],
+      "createdAt": "2026-07-26T02:51:44.857Z",
+      "updatedAt": "2026-07-26T02:54:40.299Z",
+      "__v": 0
+    }
+  ],
+  "categories": [
+    {
+      "_id": "6a657640e14975bd6b55abac",
+      "name": "Cement",
+      "slug": "cement",
+      "image": "/uploads/imageFile-1785034516094.png",
+      "description": "OPC, PPC, and specialized cement formulations for long-lasting structural foundations.",
+      "order": 1,
+      "createdAt": "2026-07-26T02:51:44.739Z",
+      "updatedAt": "2026-07-26T02:55:16.101Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a657640e14975bd6b55abae",
+      "name": "Hardware",
+      "slug": "hardware",
+      "image": "/uploads/imageFile-1785034528612.png",
+      "description": "Premium door locks, heavy-duty hinges, screws, and structural fasteners.",
+      "order": 2,
+      "createdAt": "2026-07-26T02:51:44.744Z",
+      "updatedAt": "2026-07-26T02:55:28.630Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a657640e14975bd6b55abb0",
+      "name": "Construction Chemicals",
+      "slug": "chemicals",
+      "image": "/uploads/imageFile-1785034540676.png",
+      "description": "High-tech waterproofing solutions, sealants, tile adhesives, and grouts.",
+      "order": 3,
+      "createdAt": "2026-07-26T02:51:44.747Z",
+      "updatedAt": "2026-07-26T02:55:40.751Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a657640e14975bd6b55abb2",
+      "name": "CP Fittings",
+      "slug": "cp-fittings",
+      "image": "/uploads/imageFile-1785034550004.png",
+      "description": "Designer bathroom faucets, shower mixers, kitchen taps, and sanitaryware.",
+      "order": 4,
+      "createdAt": "2026-07-26T02:51:44.751Z",
+      "updatedAt": "2026-07-26T02:55:50.024Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a657640e14975bd6b55abb4",
+      "name": "TMT Steel",
+      "slug": "tmt-steel",
+      "image": "/uploads/imageFile-1785034561375.png",
+      "description": "Reinforced concrete thermo-mechanically treated rebars and structural iron rods.",
+      "order": 5,
+      "createdAt": "2026-07-26T02:51:44.754Z",
+      "updatedAt": "2026-07-26T02:56:01.450Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a657640e14975bd6b55abb6",
+      "name": "Plumbing Materials",
+      "slug": "plumbing",
+      "image": "/uploads/imageFile-1785034571336.png",
+      "description": "Heavy-duty PVC, CPVC, and SWR pipes, fittings, and flow control valves.",
+      "order": 6,
+      "createdAt": "2026-07-26T02:51:44.759Z",
+      "updatedAt": "2026-07-26T02:56:11.410Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a657640e14975bd6b55abb8",
+      "name": "Electrical Materials",
+      "slug": "electrical",
+      "image": "/uploads/imageFile-1785034583998.png",
+      "description": "Industrial insulated wires, conduits, distribution boards, and modular switches.",
+      "order": 7,
+      "createdAt": "2026-07-26T02:51:44.762Z",
+      "updatedAt": "2026-07-26T02:56:24.076Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a657640e14975bd6b55abba",
+      "name": "Paints",
+      "slug": "paints",
+      "image": "/uploads/imageFile-1785034597386.png",
+      "description": "Luxury acrylic wall coatings, emulsions, primers, and exterior protection coatings.",
+      "order": 8,
+      "createdAt": "2026-07-26T02:51:44.765Z",
+      "updatedAt": "2026-07-26T02:56:37.483Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a657640e14975bd6b55abbc",
+      "name": "Tiles",
+      "slug": "tiles",
+      "image": "/uploads/imageFile-1785034609314.png",
+      "description": "Glazed vitrified tiles, ceramic flooring, bathroom walls, and outdoor pavers.",
+      "order": 9,
+      "createdAt": "2026-07-26T02:51:44.768Z",
+      "updatedAt": "2026-07-26T02:56:49.351Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a657640e14975bd6b55abbe",
+      "name": "Sanitaryware",
+      "slug": "sanitaryware",
+      "image": "/uploads/imageFile-1785034617722.png",
+      "description": "Premium ceramic washbowls, wall-hung closets, and washroom cabinets.",
+      "order": 10,
+      "createdAt": "2026-07-26T02:51:44.771Z",
+      "updatedAt": "2026-07-26T02:56:57.813Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a657640e14975bd6b55abc0",
+      "name": "Tools & Accessories",
+      "slug": "tools",
+      "image": "/uploads/imageFile-1785034632646.png",
+      "description": "Professional power tools, hand tools, measuring tapes, and on-site safety gear.",
+      "order": 11,
+      "createdAt": "2026-07-26T02:51:44.774Z",
+      "updatedAt": "2026-07-26T02:57:12.678Z",
+      "__v": 0
+    }
+  ],
+  "brands": [
+    {
+      "_id": "6a657640e14975bd6b55abc3",
+      "name": "UltraTech",
+      "logo": "/favicon.svg",
+      "website": "https://www.ultratechcement.com",
+      "createdAt": "2026-07-26T02:51:44.781Z",
+      "updatedAt": "2026-07-26T02:51:44.781Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a657640e14975bd6b55abc5",
+      "name": "ACC",
+      "logo": "/uploads/logoFile-1785034658317.png",
+      "website": "https://www.acccement.com",
+      "createdAt": "2026-07-26T02:51:44.784Z",
+      "updatedAt": "2026-07-26T02:57:38.463Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a657640e14975bd6b55abc7",
+      "name": "Ambuja",
+      "logo": "/favicon.svg",
+      "website": "https://www.ambujacement.com",
+      "createdAt": "2026-07-26T02:51:44.786Z",
+      "updatedAt": "2026-07-26T02:51:44.786Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a657640e14975bd6b55abc9",
+      "name": "Hathi",
+      "logo": "/favicon.svg",
+      "website": "https://www.hathicement.com",
+      "createdAt": "2026-07-26T02:51:44.788Z",
+      "updatedAt": "2026-07-26T02:51:44.788Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a657640e14975bd6b55abcb",
+      "name": "JK Cement",
+      "logo": "/favicon.svg",
+      "website": "https://www.jkcement.com",
+      "createdAt": "2026-07-26T02:51:44.792Z",
+      "updatedAt": "2026-07-26T02:51:44.792Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a657640e14975bd6b55abcd",
+      "name": "Shree Cement",
+      "logo": "/favicon.svg",
+      "website": "https://www.shreecement.com",
+      "createdAt": "2026-07-26T02:51:44.795Z",
+      "updatedAt": "2026-07-26T02:51:44.795Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a657640e14975bd6b55abcf",
+      "name": "Dr. Fixit",
+      "logo": "/favicon.svg",
+      "website": "https://www.drfixit.co.in",
+      "createdAt": "2026-07-26T02:51:44.797Z",
+      "updatedAt": "2026-07-26T02:51:44.797Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a657640e14975bd6b55abd1",
+      "name": "Asian Paints SmartCare",
+      "logo": "/favicon.svg",
+      "website": "https://www.asianpaints.com",
+      "createdAt": "2026-07-26T02:51:44.801Z",
+      "updatedAt": "2026-07-26T02:51:44.801Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a657640e14975bd6b55abd3",
+      "name": "Astral",
+      "logo": "/favicon.svg",
+      "website": "https://www.astralpipes.com",
+      "createdAt": "2026-07-26T02:51:44.804Z",
+      "updatedAt": "2026-07-26T02:51:44.804Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a657640e14975bd6b55abd5",
+      "name": "Supreme",
+      "logo": "/favicon.svg",
+      "website": "https://www.supremepipes.com",
+      "createdAt": "2026-07-26T02:51:44.807Z",
+      "updatedAt": "2026-07-26T02:51:44.807Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a657640e14975bd6b55abd7",
+      "name": "Jaquar",
+      "logo": "/favicon.svg",
+      "website": "https://www.jaquar.com",
+      "createdAt": "2026-07-26T02:51:44.809Z",
+      "updatedAt": "2026-07-26T02:51:44.809Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a657640e14975bd6b55abd9",
+      "name": "Cera",
+      "logo": "/favicon.svg",
+      "website": "https://www.cera-india.com",
+      "createdAt": "2026-07-26T02:51:44.811Z",
+      "updatedAt": "2026-07-26T02:51:44.811Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a657640e14975bd6b55abdb",
+      "name": "Hindware",
+      "logo": "/favicon.svg",
+      "website": "https://www.hindwarehomes.com",
+      "createdAt": "2026-07-26T02:51:44.814Z",
+      "updatedAt": "2026-07-26T02:51:44.814Z",
+      "__v": 0
+    }
+  ],
+  "websiteconfigs": [
+    {
+      "_id": "6a657640e14975bd6b55aba8",
+      "websiteName": "PR Material House",
+      "companyLogo": "/favicon.svg",
+      "favicon": "/favicon.svg",
+      "colors": {
+        "primary": "#1F2937",
+        "accent": "#F97316",
+        "background": "#FFFFFF",
+        "lightGray": "#F3F4F6"
+      },
+      "fonts": {
+        "headings": "Outfit",
+        "body": "Plus Jakarta Sans"
+      },
+      "socialLinks": {
+        "facebook": "#",
+        "linkedin": "#",
+        "twitter": "#"
+      },
+      "seo": {
+        "title": "PR Material House | Premium Building Material Supplier",
+        "metaDescription": "PR Material House supplies premium quality cement, hardware, CP fittings, construction chemicals, TMT steel, and other building materials.",
+        "metaKeywords": "cement, hardware, cp fittings, construction chemicals, plumbing, tiles, paints, sanitaryware, TMT steel"
+      },
+      "header": {
+        "announcementBar": "Trusted B2B Supplier for Contractors & Builders",
+        "showAnnouncement": true
+      },
+      "footer": {
+        "copyrightText": "© 2026 PR Material House. All rights reserved.",
+        "aboutSnippet": "Standard-setting distributor of high-grade construction materials, supporting major developers and builders."
+      },
+      "createdAt": "2026-07-26T02:51:44.730Z",
+      "updatedAt": "2026-07-26T02:51:44.730Z",
+      "__v": 0
+    }
+  ],
+  "homepages": [],
+  "contactdetails": [
+    {
+      "_id": "6a657640e14975bd6b55aba1",
+      "phone": "+91 99133 77965",
+      "email": "prmaterialhouse@gmail.com",
+      "address": "Remote Pan, Ahmedabad, Gujarat, India",
+      "googleMapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d117508.83594612808!2d72.50742456428723!3d23.02250495819777!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1m3!2d72.5713621!3d23.022505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin",
+      "whatsappNumber": "919913377965",
+      "createdAt": "2026-07-26T02:51:44.620Z",
+      "updatedAt": "2026-07-26T04:40:45.803Z",
+      "__v": 0
+    }
+  ],
+  "testimonials": [
+    {
+      "_id": "6a657640e14975bd6b55abde",
+      "name": "Rajesh Mehta",
+      "role": "Project Director, Apex Infra",
+      "text": "PR Material House has been our primary concrete and waterproofing supplier for three major residential towers. Their chemical concrete admixtures and cement quality are top-tier. Delivery is always spot on schedule.",
+      "rating": 5,
+      "createdAt": "2026-07-26T02:51:44.820Z",
+      "updatedAt": "2026-07-26T02:51:44.820Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a657640e14975bd6b55abdf",
+      "name": "Ananya Sen",
+      "role": "Principal Architect, Studio Sen",
+      "text": "The range of architectural hardware and CP fittings PR Material House offers is outstanding. Their luxury hardware series completely aligned with our clients minimalist design specifications. Highly recommended.",
+      "rating": 5,
+      "createdAt": "2026-07-26T02:51:44.820Z",
+      "updatedAt": "2026-07-26T02:51:44.820Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a657640e14975bd6b55abe0",
+      "name": "Vikram Malhotra",
+      "role": "Procurement Head, Horizon Group",
+      "text": "B2B ordering with PR Material House has saved us significant operational hassle. Their bulk pricing structures are highly transparent and their support team provided prompt data sheets for all construction chemicals.",
+      "rating": 5,
+      "createdAt": "2026-07-26T02:51:44.820Z",
+      "updatedAt": "2026-07-26T02:51:44.820Z",
+      "__v": 0
+    }
+  ],
+  "galleries": [
+    {
+      "_id": "6a657640e14975bd6b55abe6",
+      "title": "Luxury Villa - Bathroom Faucets installation",
+      "image": "/cp_fittings.jpg",
+      "category": "Interior Fitouts",
+      "createdAt": "2026-07-26T02:51:44.830Z",
+      "updatedAt": "2026-07-26T02:51:44.830Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a657640e14975bd6b55abe5",
+      "title": "Commercial Plaza - Foundation Pouring",
+      "image": "/cement.jpg",
+      "category": "Construction Projects",
+      "createdAt": "2026-07-26T02:51:44.830Z",
+      "updatedAt": "2026-07-26T02:51:44.830Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a657640e14975bd6b55abe7",
+      "title": "Industrial Warehouse - Hardware fitting",
+      "image": "/hardware.jpg",
+      "category": "Hardware",
+      "createdAt": "2026-07-26T02:51:44.830Z",
+      "updatedAt": "2026-07-26T02:51:44.830Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a657640e14975bd6b55abe8",
+      "title": "Basement Waterproofing Injection",
+      "image": "/chemicals.jpg",
+      "category": "Waterproofing",
+      "createdAt": "2026-07-26T02:51:44.830Z",
+      "updatedAt": "2026-07-26T02:51:44.830Z",
+      "__v": 0
+    }
+  ]
+}

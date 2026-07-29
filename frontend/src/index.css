@@ -1,0 +1,246 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-sans: 'Plus Jakarta Sans', system-ui, sans-serif;
+    --font-heading: 'Outfit', system-ui, sans-serif;
+    --color-primary: #1F2937;
+    --color-secondary: #F97316;
+    --color-bg: #FFFFFF;
+
+    /* Tailwind v4 dynamic overrides */
+    --color-orange-50: color-mix(in srgb, var(--color-secondary) 10%, white);
+    --color-orange-100: color-mix(in srgb, var(--color-secondary) 20%, white);
+    --color-orange-400: color-mix(in srgb, var(--color-secondary) 85%, white);
+    --color-orange-500: var(--color-secondary);
+    --color-orange-600: color-mix(in srgb, var(--color-secondary) 85%, black);
+    --color-orange-700: color-mix(in srgb, var(--color-secondary) 70%, black);
+    
+    --color-gray-900: var(--color-primary);
+    --color-gray-800: color-mix(in srgb, var(--color-primary) 85%, white);
+  }
+  
+  html {
+    scroll-behavior: smooth;
+    background-color: #ffffff;
+    font-family: var(--font-sans);
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
+  }
+}
+
+/* Custom Scroll Bar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+::-webkit-scrollbar-thumb {
+  background: #d1d5db;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #f97316;
+}
+
+/* Hide scrollbars utility */
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-none {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Glassmorphism Styles */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.glass-panel-dark {
+  background: rgba(31, 41, 55, 0.75);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+/* Premium Animations */
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0px); }
+}
+
+@keyframes marquee {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}
+
+.animate-marquee {
+  animation: marquee 35s linear infinite;
+}
+
+.animate-marquee:hover {
+  animation-play-state: paused;
+}
+
+/* 3D Transform and Shake Utilities */
+.preserve-3d {
+  transform-style: preserve-3d;
+}
+.backface-hidden {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}
+
+@keyframes shake {
+  0% { transform: translate(1px, 1px) rotate(0deg); }
+  10% { transform: translate(-1px, -1px) rotate(-1deg); }
+  20% { transform: translate(-2px, 0px) rotate(1deg); }
+  30% { transform: translate(0px, 1px) rotate(0deg); }
+  40% { transform: translate(1px, -1px) rotate(1deg); }
+  50% { transform: translate(-1px, 1px) rotate(-1deg); }
+  60% { transform: translate(-2px, 0px) rotate(0deg); }
+  70% { transform: translate(1px, 1px) rotate(-1deg); }
+  80% { transform: translate(-1px, -1px) rotate(1deg); }
+  95% { transform: translate(1px, 1px) rotate(0deg); }
+}
+.animate-shake {
+  animation: shake 0.1s infinite;
+}
+
+/* Global Page Shake Animation */
+@keyframes global-shake {
+  0% { transform: translate(0, 0); }
+  10% { transform: translate(-2px, 1.5px); }
+  20% { transform: translate(2px, -1.5px); }
+  30% { transform: translate(-1.5px, -2px); }
+  40% { transform: translate(1.5px, 2px); }
+  50% { transform: translate(-1px, 1px); }
+  60% { transform: translate(2px, -1px); }
+  75% { transform: translate(-1.5px, 1px); }
+  90% { transform: translate(1px, -1.5px); }
+  100% { transform: translate(0, 0); }
+}
+.animate-global-shake {
+  animation: global-shake 0.25s ease-in-out infinite;
+}
+
+/* Scroll reveal triggers */
+.reveal-on-scroll {
+  opacity: 0;
+  transform: translateY(24px);
+  transition: opacity 0.8s cubic-bezier(0.16, 1, 0.3, 1), transform 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.reveal-on-scroll.active {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Shimmer placeholder */
+.shimmer {
+  background: linear-gradient(90deg, #f3f4f6 25%, #e5e7eb 50%, #f3f4f6 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+@keyframes shimmer {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+
+/* Custom cursors or button glides */
+.ripple-button {
+  position: relative;
+  overflow: hidden;
+}
+
+.ripple-button::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  transition: width 0.6s ease-out, height 0.6s ease-out;
+}
+
+.ripple-button:active::after {
+  width: 300px;
+  height: 300px;
+  opacity: 0;
+}
+
+/* Admin Dark Mode Overrides */
+.admin-dark-theme {
+  background-color: #0b0f19 !important;
+}
+
+.admin-dark-theme .bg-gray-50 {
+  background-color: #0b0f19 !important;
+}
+
+.admin-dark-theme header,
+.admin-dark-theme .bg-white {
+  background-color: #111827 !important;
+  border-color: #1f2937 !important;
+}
+
+.admin-dark-theme h3,
+.admin-dark-theme h4,
+.admin-dark-theme h2,
+.admin-dark-theme h1,
+.admin-dark-theme span:not(.text-orange-700),
+.admin-dark-theme div:not(.bg-orange-50):not(.text-orange-700):not(.bg-amber-100),
+.admin-dark-theme p:not(.text-orange-600):not(.text-red-400):not(.text-amber-700) {
+  color: #e5e7eb;
+}
+
+.admin-dark-theme .text-gray-500,
+.admin-dark-theme .text-gray-400 {
+  color: #9ca3af;
+}
+
+.admin-dark-theme input,
+.admin-dark-theme select,
+.admin-dark-theme textarea {
+  background-color: #1f2937 !important;
+  color: #ffffff !important;
+  border-color: #374151 !important;
+}
+
+.admin-dark-theme input::placeholder {
+  color: #6b7280 !important;
+}
+
+.admin-dark-theme table th {
+  background-color: #1f2937 !important;
+  color: #9ca3af !important;
+}
+
+.admin-dark-theme table td {
+  border-color: #1f2937 !important;
+}
+
+.admin-dark-theme tr:hover {
+  background-color: #1f2937 !important;
+}
+
